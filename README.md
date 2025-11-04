@@ -9,6 +9,7 @@
 Code File: "Honors Project Code.ipynb"
 - contains the full notebook with all environment setup, function definitions, and graphic outputs
 - running the notebook is set-up to be random every time, but can be seeded for reproducability
+
 Presentation:
 - contains a mathematical overview of the concepts detailed below, as well as an overview of the real-world coded example
 ---
